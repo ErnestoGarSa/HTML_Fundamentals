@@ -9,6 +9,9 @@ h4 {
 button{
   color: #fff;
   background-color:#025157 ;
+  border: name;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   margin-left: 5px;
   height: 30px;
 }
